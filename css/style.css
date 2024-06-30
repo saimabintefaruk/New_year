@@ -1,0 +1,161 @@
+/*heading style*/
+.container{
+    background-image: url(../images/banner2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 808px;
+   
+}
+.banner{
+    
+    text-align: right;
+    padding-left:650px;
+    padding-top: 200px;
+    
+}
+.banner-heading{
+
+    font-weight: 100px;
+    width: 400px;
+    
+   
+}
+.banner-description{
+    width: 400px;
+
+}
+.primary-btn{
+    width: 90px;
+    height: 45px;
+    border-radius: 5px;
+    background: #F15B22;
+    margin-right: 230px;
+    color: #FFF;
+    font-size: 15px;
+    border: none;
+}
+.hero-container{
+    margin: 40px;
+    display: flex;
+    gap: 130px;
+}
+.hero-img{
+    max-width: 550px;
+    max-height: 660px;
+}
+.hero-content{
+    padding-top: 300px;
+
+}
+.hero-heading{
+    width: 290px;
+    
+}
+.hero-description{
+    width: 416px;
+    color: #474747;
+}
+.hero-list{
+    color:#474747;
+}
+.plan-section{
+    margin-top:200px
+}
+.plan-heading{
+    text-align: center;
+}
+.plan-list{
+    display: flex;
+    gap: 120px;
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.plan-content{
+    text-align: center;
+}
+.contact-container{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+    margin: 90px 0px;
+    
+}
+.contact{
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.01)100%);
+    width:800px;
+    height: 300px;
+    margin: 0px 72px;
+}
+.contact-headig{
+    width: 500px;
+    height: 65px;
+    color:#fff;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 45px;
+}
+.contact-btn{
+    margin-left: 45px;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background: #FFF;
+    color: #F15B22;
+    font-size: 15px;
+    text-align: center;
+    border: none;
+}
+/*footer section*/
+.footer{
+    background-color: #000;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.footer-col1{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.footer-heading{
+    padding-left :20px;
+}
+.footer-description{
+    width: 250px;
+    height: 10px;
+    padding-left:20px ;
+    padding-bottom: 10px;
+}
+.footer h4{
+    padding-left: 20px;
+}
+.footer-img{
+    margin-left: 20px;
+    margin-top: 90px;
+    gap: 30px;
+}
+.footer-col2{
+    margin: 20px 150px 0 0;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+}
+.footer input{
+    border: none;
+}
+.footer button{
+    margin-top: 10px;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background: #FFF;
+    color: #F15B22;
+    font-size: 15px;
+    text-align: center;
+    border: none;
+}
